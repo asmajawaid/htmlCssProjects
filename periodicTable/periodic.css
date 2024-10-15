@@ -1,0 +1,96 @@
+body{
+    background-color: whitesmoke;
+}
+table{
+    text-align: center;
+    /* background-color: rgb(224, 210, 183); */
+    border: none;
+    padding: 10;
+    /* border: 1px; */
+}
+
+.heading{
+    background-color: rgb(199, 219, 108);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    width: 600px;
+    line-height: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px black;
+    color: white;
+}
+
+td{
+    width: 40px;
+    height: 40px;
+    /* text-align: center; */
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px black;
+}
+
+.num{
+    line-height: 0px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.name{
+    line-height: 0px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.abc1{
+    background-color: lightblue;
+}
+.abc2{
+    background-color: skyblue;
+}
+.abc3{
+    background-color: turquoise;
+}
+.abc4{
+    background-color: violet;
+}
+.abc5{
+    background-color: gold;
+}
+.abc6{
+    background-color: rgb(163, 163, 5);
+}
+.abc7{
+    background-color: cyan;
+}
+.abc8{
+    background-color: darksalmon;
+}
+.abc9{
+    background-color: powderblue;
+}
+.abc10{
+    background-color: rgb(121, 100, 121);
+}
+.abc11{
+    background-color: silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

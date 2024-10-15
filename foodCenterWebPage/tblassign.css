@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(70, 57, 64);
+    
+}
+h1{
+    color: rgb(252, 70, 101);
+    font-size: 80px;
+    font-style: oblique;
+    margin: 0;
+    text-shadow: 0px 10px 15px black;
+}
+h2{
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    margin: 0;
+}
+
+td{
+    text-align: center;
+}
+/* .abc{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+} */
+.lastimages{
+    margin: 0 25px 0 25px;
+}
+.lastname{
+    display: inline-block;
+    margin: 0 40px 0 40px;
+    width: 70px;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+p{
+
+    background-color: rgb(199, 108, 108);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px black;
+    /* margin: opx 10px 0px 10px; */
+}
+.main{
+    border-radius: 0%;
+    width: 150px;
+    height: 450px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
