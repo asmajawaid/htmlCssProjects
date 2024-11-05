@@ -1,0 +1,99 @@
+body {
+   background-color: rgb(221, 220, 218);
+    /* display: flex; */
+    align-items: center;
+    /* justify-content: center; */
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    /* padding: 10px; */
+    text-align: center;
+    box-shadow: 0px 10px 15px black;
+    /* border: 2px groove black; */
+    /* width: 300px; */
+    border-radius: 10px;
+    background-color: rgb(202, 200, 200);
+}
+
+#chessboard {
+    /* overflow: hidden; */
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    /* display: inline-block; */
+    /* margin: 20px 0px; */
+}
+
+table {
+    margin: auto;
+    text-align: center;
+
+}
+
+.a {
+    background-color: white;
+    color: black;
+    width: 50px;
+    height: 50px;
+   
+}
+
+.b {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    width: 50px;
+    height: 50px;
+  
+}
+
+#wp {
+    text-shadow: 0px 1px 2px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .chessboard{ */
+/* border: 2px solid gold; */
+/* display: inline-block; */
+
+/* width: 90%; */
+/* height: 90%; */
+/* display: flex; */
+/* flex-wrap: wrap; */
+
+/* } */
+/* .chessboard div{ */
+/* width: calc(100%/8); */
+/* border: 1px solid black; */
+/* } */
+/* .white{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    
+}
+.black{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+   
+} */
